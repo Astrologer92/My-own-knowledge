@@ -1,0 +1,13 @@
+1.  注册github
+
+2. 在windows上下载安装git 
+
+3. 右键 open git Bash here
+
+4. git config --global user.email."dyw77521@gmail.com"
+
+5. ssh-keygen -t rsa -C "dyw77521@gmail.com"（各种回车）
+
+6.打开github网页，个人，setting, ssh 密钥新建，复制刚才的密钥（文档中的内容全部复制）
+
+7.github网页中，右上角，➕号， 新建，就可以了。记得勾选 readme文件。
